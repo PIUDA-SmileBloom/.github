@@ -1,12 +1,21 @@
-## Hi there 👋
+# 청춘여행(YouthTrip)
 
-<!--
+## 팀명
+웃음피우다
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 서비스 설명
+'청춘여행'은 AI 기반 로컬 지원 시스템으로, 데이터 및 감성 기반의 통합 케어를 제공합니다. 보호사의 업무 부담을 줄이고, 가족에게는 안심과 정서적 교감을 선사합니다. 어르신에게는 삶의 질 향상과 안전한 돌봄 환경을 제공하여, 급증하는 치매 환자 문제에 대한 새로운 해법을 제시합니다.
+
+---
+
+## 주요 기능
+
+* **돌봄 기록 관리**: 대화, 활동, 정서 상태 등을 기록하고 시각화하여 장기적인 인지 및 정서 변화를 추적합니다.
+* **기억 아카이빙**: 과거 사진, 음악, 추억 등을 보관하며, AI가 회상 활동을 지원합니다.
+* **인지 자극 활동 지원**: AI가 개인 맞춤형 대화 주제와 활동을 제안하여 인지 기능 향상을 돕습니다.
+* **행동 패턴 분석 및 안전 관리**: 어르신의 행동 패턴을 분석하고, 노인 미아 발생 시 예상 위치를 제공하여 안전을 관리합니다.
+* **통합 계정 시스템**: 환자 정보를 통합 관리하며, 권한별 정보 공유를 통해 협력적인 돌봄을 지원합니다.
+
+---
